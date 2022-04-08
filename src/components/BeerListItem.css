@@ -1,0 +1,17 @@
+
+.beer-li{
+display: flex;
+flex-direction: row;
+align-items: center;
+height: 15rem;
+}
+
+.beer-l-info-container {
+  padding: 2rem;
+  text-align: left;
+}
+
+.beer-l-img-container img{
+ width: 3rem;
+ padding: 2rem;
+}

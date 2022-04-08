@@ -1,0 +1,14 @@
+header{
+  height: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  background: white;
+}
+
+header img {
+  width: 3rem;
+}

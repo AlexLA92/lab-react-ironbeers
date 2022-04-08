@@ -1,0 +1,11 @@
+
+.home-image-container {
+  height: 10rem;
+  background-size: cover;
+  background-position: center;
+}
+
+a.home-card {
+  color: black;
+  text-decoration: none;
+}

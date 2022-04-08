@@ -1,0 +1,14 @@
+.beer-details{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: right;
+}
+
+.beer-details-img-container img {
+  width: 5rem;
+}
+
+.beer-details-info-container{
+   text-align: left;
+}
